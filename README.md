@@ -20,11 +20,5 @@ The model processes graph‑structured biomedical data using:
 - Scalable broadcast attention from tokens back to nodes
 - Final prediction from fused node and token representations
 
-## Usage
-```python
-from model import CancerDetectionOmni_V18_ELITE_10
-model = CancerDetectionOmni_V18_ELITE_10(node_in, edge_in)
-out = model(data)
-
 
 https://github.com/diama-ai/-SovereignFusion-V10-Multimodal-AI-for-Cancer-Risk-Modeling-Research-Prototype-
