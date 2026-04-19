@@ -1,3 +1,5 @@
+⚡ Engineered by Kiliandiama | The Diama Protocol [10/10] | All rights reserved.
+
 # CancerDetectionOmni V18 ELITE
 
 CancerDetectionOmni V18 ELITE is a hybrid Graph Transformer designed for ultra‑low‑signal biomedical data and molecular graph classification.  
